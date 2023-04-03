@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a fullstack javascript developer.<br>always challanges self to growup knowladge 🔥
+fullstack javascript developer.<br>always challanges self to growup knowladge. 🔥
 
 
 ## 🌐 Socials:
