@@ -1,5 +1,16 @@
 # 💫 About Me:
-fullstack javascript developer.<br>always challanges self to growup knowladge. 🔥
+Skills:
+
+1. Programming Languages: Proficient in Java, Python, and JavaScript, with experience in developing full-stack applications using various frameworks such as Spring Boot, Django, and React.
+2. Web Development: Skilled in building responsive and intuitive user interfaces using HTML, CSS, and JavaScript libraries like jQuery and Bootstrap. Familiar with front-end frameworks like Angular and Vue.js.
+3. Database Management: Strong knowledge of SQL and experience working with relational databases such as MySQL and PostgreSQL. Able to design and optimize database schemas and write complex queries.
+4. Server-side Development: Experienced in developing RESTful APIs and implementing server-side logic using frameworks like Node.js and Express. Familiar with authentication and authorization mechanisms like JWT and OAuth.
+5. Version Control: Proficient in using Git for version control and collaboration on projects. Comfortable with Git workflows, branching, and merging.
+6. Testing and Debugging: Skilled in unit testing, integration testing, and debugging techniques. Familiar with testing frameworks like JUnit and Jest, and debugging tools like Chrome DevTools and Postman.
+7. Agile Methodologies: Experience working in Agile development environments, collaborating with cross-functional teams, and using tools like JIRA for project management and issue tracking.
+8. Problem-solving: Strong analytical and problem-solving skills, with the ability to quickly understand complex requirements and find innovative solutions. Detail-oriented and able to identify and resolve bugs and performance issues.
+9. Communication: Excellent verbal and written communication skills, with the ability to effectively collaborate with team members, stakeholders, and clients. Experienced in documenting code and writing technical documentation.
+10. Continuous Learning: Enthusiastic about staying updated with the latest technologies, frameworks, and best practices in the field of full-stack development. Self-motivated learner and eager to take on new challenges.
 
 
 ## 🌐 Socials:
