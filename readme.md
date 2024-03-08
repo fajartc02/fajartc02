@@ -1,7 +1,7 @@
 # 💫 About Me:
 Skills:
 
-1. Programming Languages: Proficient in Java, Python, and JavaScript, with experience in developing full-stack applications using various frameworks such as Spring Boot, Django, and React.
+1. Programming Languages: Python, and JavaScript, with experience in developing full-stack applications using various frameworks such as Spring Boot, Django, and React.
 2. Web Development: Skilled in building responsive and intuitive user interfaces using HTML, CSS, and JavaScript libraries like jQuery and Bootstrap. Familiar with front-end frameworks like Angular and Vue.js.
 3. Database Management: Strong knowledge of SQL and experience working with relational databases such as MySQL and PostgreSQL. Able to design and optimize database schemas and write complex queries.
 4. Server-side Development: Experienced in developing RESTful APIs and implementing server-side logic using frameworks like Node.js and Express. Familiar with authentication and authorization mechanisms like JWT and OAuth.
