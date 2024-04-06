@@ -1,12 +1,12 @@
 # 💫 About Me:
 Skills:
 
-1. Programming Languages: Python, and JavaScript, with experience in developing full-stack applications using various frameworks JavaScript, Django, and VueJS.
-2. Web Development: Skilled in building responsive and intuitive user interfaces using HTML, CSS, and JavaScript libraries like jQuery and Bootstrap. Familiar with front-end frameworks like Angular and Vue.js.
-3. Database Management: Strong knowledge of SQL and experience working with relational databases such as MySQL and PostgreSQL. Able to design and optimize database schemas and write complex queries.
+1. Programming Languages: Python, and JavaScript, with experience in developing full-stack applications using various frameworks JavaScript, Python.
+2. Web Development: Skilled in building responsive and intuitive user interfaces using HTML, CSS, and JavaScript libraries like jQuery and Bootstrap. Familiar with front-end frameworks like Vue.js.
+3. Database Management: Strong knowledge of SQL and experience working with relational databases such as MySQL, PostgreSQL and MSSQL. Able to design and optimize database schemas and write complex queries.
 4. Server-side Development: Experienced in developing RESTful APIs and implementing server-side logic using frameworks like Node.js and Express. Familiar with authentication and authorization mechanisms like JWT and OAuth.
 5. Version Control: Proficient in using Git for version control and collaboration on projects. Comfortable with Git workflows, branching, and merging.
-6. Testing and Debugging: Skilled in unit testing, integration testing, and debugging techniques. Familiar with testing frameworks like JUnit and Jest, and debugging tools like Chrome DevTools and Postman.
+6. Testing and Debugging: Skilled using Testing documentations manually and properly recorded, and debugging tools like Chrome DevTools and Postman.
 7. Agile Methodologies: Experience working in Agile development environments, collaborating with cross-functional teams, and using tools like JIRA for project management and issue tracking.
 8. Problem-solving: Strong analytical and problem-solving skills, with the ability to quickly understand complex requirements and find innovative solutions. Detail-oriented and able to identify and resolve bugs and performance issues.
 9. Communication: Excellent verbal and written communication skills, with the ability to effectively collaborate with team members, stakeholders, and clients. Experienced in documenting code and writing technical documentation.
